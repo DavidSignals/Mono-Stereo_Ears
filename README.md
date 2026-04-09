@@ -54,7 +54,7 @@
 
 ### 🚀 Installation
 1. Clone repository:
-git clone https://github.com/davidsignalsss/mono-stereo-ears.git
+git clone https://github.com/DavidSignals/mono-stereo-ears.git
 
 ### 📊 Technical Specifications
 - **Platform: macOS 11.0+ (Apple Silicon & Intel)**
@@ -68,9 +68,9 @@ David Rábago Félix (Professional Alias: David Signals)
 Audio Plugin Developer & Mechatronic Engineer
 
 ### Connect
-- **GitHub: davidsignalsss**
-- **Portfolio: davidsignalsss.github.io**
-- **Email: rabagospace@gmail.com**
+- **GitHub: DavidSignals**
+- **Portfolio: DavidSignals.github.io**
+- **Email: david.rabago.felix@gmail.com**
 
 ### 📄 License
 MIT License - See LICENSE file for details
